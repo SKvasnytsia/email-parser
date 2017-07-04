@@ -1,0 +1,7 @@
+/.vs
+/.vs/**
+/.vs/**/*
+/SmtpParser/bin
+/SmtpParser/bin/**
+/SmtpParser/obj
+/SmtpParser/obj/**
