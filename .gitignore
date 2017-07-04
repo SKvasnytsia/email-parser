@@ -3,5 +3,7 @@
 /.vs/**/*
 /SmtpParser/bin
 /SmtpParser/bin/**
+/SmtpParser/bin/**/*
 /SmtpParser/obj
 /SmtpParser/obj/**
+/SmtpParser/obj/**/*
